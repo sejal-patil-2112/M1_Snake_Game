@@ -3,3 +3,5 @@
 [![Cppcheck Analysis](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/cppcheck.yml)
 
 [![CI](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/CI.yml/badge.svg)](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/CI.yml)
+
+[![Compile-Windows](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/compiler.yml/badge.svg)](https://github.com/sejal-patil-2112/M1_Snake_Game/actions/workflows/compiler.yml)
